@@ -12,9 +12,8 @@
 2.    Statistically speaking, how confident was Dr. Semmelweis?
 
 In this notebook, I will be using the following packages: 
-1.    readr
-2.    dplyr
-3.    ggplot2
+1.    tidyverse
+2.    ggplot2
 
 ![](/images/DC - Handwashing.png)
 
