@@ -15,6 +15,6 @@ In this notebook, I will be using the following packages:
 1.    tidyverse
 2.    ggplot2
 
-![](/images/DC - Handwashing.png)
+![](/images/Handwashing.png)
 
 ________________________
