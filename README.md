@@ -1,6 +1,6 @@
-## [Handwashing Saved Countless Lives](https://github.com/AminAlAit/DrSemmelweis)
+## [Handwashing Saved Countless Lives](https://github.com/AminAlAit/DrSemmelweis/blob/main/notebook.ipynb)
 
-### [How Dr. Semmelweis Discovered The Importance Of Handwashing](https://github.com/AminAlAit/DrSemmelweis)
+### [How Dr. Semmelweis Discovered The Importance Of Handwashing](https://github.com/AminAlAit/DrSemmelweis/blob/main/notebook.ipynb)
 <span style="background-color: #DCDCDC">R</span> 
 <span style="background-color: #DCDCDC">Data Visualization</span> 
 <span style="background-color: #DCDCDC">Data Manipulation</span> 
